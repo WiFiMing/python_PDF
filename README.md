@@ -16,7 +16,6 @@ python中将html转化为pdf的常用工具是Wkhtmltopdf工具包，在python�
 
 ## 编译环境
 
-* Win10操作系统
 * Python3.6语言版本
 * Google Chrome浏览器
 * Pycharm编译软件
